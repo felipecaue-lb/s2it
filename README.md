@@ -18,3 +18,4 @@ Observações
 O teste não possui um formulário para inserir o arquivo.
 Não foi possível inserir vários registros nas 2 tabelas (people e phone) ao mesmo tempo.
 Apenas na tabela people que deu certo.# s2it
+# s2it
