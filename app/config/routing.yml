@@ -1,0 +1,6 @@
+s2it_rest_ful:
+    resource: "@S2itRestFulBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+

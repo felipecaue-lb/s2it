@@ -1,0 +1,4 @@
+services:
+#    s2it_rest_ful.example:
+#        class: S2it\RestFulBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
